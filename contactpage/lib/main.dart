@@ -12,7 +12,7 @@ class ContactPage extends StatelessWidget {
         debugShowCheckedModeBanner: false,
         home: Scaffold(
             appBar: AppBar(
-              backgroundColor: Color(0xffc8caca),
+              backgroundColor: Color(0xff989898),
               leading: Icon(
                 Icons.arrow_back,
                 color: Colors.black,
